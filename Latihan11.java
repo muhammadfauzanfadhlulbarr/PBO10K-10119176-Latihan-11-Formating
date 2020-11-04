@@ -1,3 +1,11 @@
+/**
+ * Latihan11
+ * Nama     : Muhammad Fauzan Fadhlulbarr
+ * Kelas    : PBO10K
+ * NIM      : 10119176
+ * Program  : Formating
+ */
+
 public class Latihan11 {
     public static void main(String[] args) {
         int i = 3546764;
